@@ -11,3 +11,4 @@ class ArticleController extends Controller
         return 'Halaman Article Dengan ID ' .$id;
     }
 }
+
